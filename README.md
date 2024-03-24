@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfathulilham
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning react and next js
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently work as a frontend developer
 - 📫 You can reach me on email : mfathulilhamm@gmail.com
 
 <!---
